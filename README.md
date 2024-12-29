@@ -31,7 +31,7 @@ git clone https://github.com/Aker120112/Alx-e-commerce-app.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Linkdin] (https://www.linkedin.com/in/taiwo-akeredolu-62a647278)
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/taiwo-akeredolu-62a647278)
 
 ## License
 
